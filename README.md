@@ -1,2 +1,3 @@
 # hello-world
 Figuring this out
+I'm me! I'm pretty novice at this...
